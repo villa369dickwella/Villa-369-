@@ -25,3 +25,6 @@
   opacity: 1;
   visibility: visible;
 }
+
+/* Food photography additions */
+.menu-photo{display:block;width:100%;aspect-ratio:16/10;object-fit:cover;border-radius:3px;margin:0 0 14px}.menu-grid article{overflow:hidden}.juice-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}.juice-grid article{background:#faf9f6;border:1px solid #efede7;padding:12px}.juice-grid .menu-photo{aspect-ratio:4/5;margin-bottom:10px}.juice-grid p{font:500 16px 'Playfair Display',serif;margin:0 0 4px}@media(max-width:700px){.juice-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
